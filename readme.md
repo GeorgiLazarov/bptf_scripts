@@ -5,7 +5,7 @@ A userscript that adds a button to backpack.tf classifieds pages to open all unu
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/).
-2. Click [here](#) to install the script (you'll need to host the script somewhere and add the link).
+2. Click [script in raw view](https://github.com/GeorgiLazarov/bptf_scripts/raw/master/Backpack.tf_Listings_Stats_Opener.js) to install the script (you'll need to host the script somewhere and add the link).
 3. Install.1
 
 > **Warning**
