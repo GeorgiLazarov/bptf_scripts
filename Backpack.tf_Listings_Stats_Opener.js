@@ -3,8 +3,17 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Adds a button to open all listing stats on backpack.tf in new tabs
+// @author       GeorgiLazarov
 // @match        https://backpack.tf/classifieds*
 // @grant        none
+// @license      MIT
+
+// @homepageURL     https://github.com/GeorgiLazarov/bptf_scripts
+// @supportURL      https://github.com/GeorgiLazarov/bptf_scripts/issues
+// @downloadURL     https://github.com/GeorgiLazarov/bptf_scripts/raw/master/Backpack.tf_Listings_Stats_Opener.js
+
+// @run-at          document-end
+
 // ==/UserScript==
 
 (function() {
