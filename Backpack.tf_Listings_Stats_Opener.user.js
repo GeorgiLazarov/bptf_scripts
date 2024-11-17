@@ -1,19 +1,17 @@
 // ==UserScript==
 // @name         Backpack.tf Listings Stats Opener
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/GeorgiLazarov
 // @version      1.2
 // @description  Adds a button to open all listing stats on backpack.tf in new tabs
 // @author       GeorgiLazarov
 // @match        https://backpack.tf/classifieds*
 // @grant        none
 // @license      MIT
-
-// @homepageURL     https://github.com/GeorgiLazarov/bptf_scripts
-// @supportURL      https://github.com/GeorgiLazarov/bptf_scripts/issues
-// @downloadURL     https://github.com/GeorgiLazarov/bptf_scripts/raw/master/Backpack.tf_Listings_Stats_Opener.js
-
-// @run-at          document-end
-
+// @updateURL    https://raw.githubusercontent.com/GeorgiLazarov/bptf_scripts/master/Backpack.tf_Listings_Stats_Opener.user.js
+// @downloadURL  https://raw.githubusercontent.com/GeorgiLazarov/bptf_scripts/master/Backpack.tf_Listings_Stats_Opener.user.js
+// @supportURL   https://github.com/GeorgiLazarov/bptf_scripts/issues
+// @homepageURL  https://github.com/GeorgiLazarov/bptf_scripts
+// @icon         https://backpack.tf/favicon-32x32.png
 // ==/UserScript==
 
 (function() {
