@@ -6,7 +6,7 @@ A userscript that adds a button to backpack.tf classifieds pages to open all unu
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/).
 2. Click [here](#) to install the script (you'll need to host the script somewhere and add the link).
-3. Install.
+3. Install.1
 
 > **Warning**
 > To use this in Chromium-based browsers (Google Chrome, Opera, Edge), you need to navigate to Manage Extensions page (chrome://extensions/) and enable Developer Mode.
